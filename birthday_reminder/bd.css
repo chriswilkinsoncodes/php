@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+    font-family: 'Nunito', sans-serif;
+    /* color: blue; */
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.details-list {
+    list-style-type: none;
+}
